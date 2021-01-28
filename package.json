@@ -5,7 +5,7 @@
 	"version": "1.0.0",
 	"publisher": "WebDevSimplified",
 	"repository": {
-		"url": "https://github.com/WebDevSimplified/extension-test"
+		"url": "https://github.com/WebDevSimplified/wds-search-blog"
 	},
 	"icon": "logo.png",
 	"engines": {
