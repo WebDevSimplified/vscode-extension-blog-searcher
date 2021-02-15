@@ -2,7 +2,7 @@
 	"name": "wds-blog-search",
 	"displayName": "WDS Blog Search",
 	"description": "Search Web Dev Simplified's Blog For Articles",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "WebDevSimplified",
 	"repository": {
 		"url": "https://github.com/WebDevSimplified/vscode-extension-blog-searcher"
