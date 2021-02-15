@@ -5,7 +5,7 @@
 	"version": "1.0.0",
 	"publisher": "WebDevSimplified",
 	"repository": {
-		"url": "https://github.com/WebDevSimplified/wds-search-blog"
+		"url": "https://github.com/WebDevSimplified/vscode-extension-blog-searcher"
 	},
 	"icon": "logo.png",
 	"engines": {
